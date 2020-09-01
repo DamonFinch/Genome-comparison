@@ -1,2 +1,8 @@
 # CHROMEISTER
-Ultra-fast genome comparison for large-scale genomic experiments
+This is a python implementation of part of [Ultra-fast genome comparison for large-scale genomic experiments](https://www.nature.com/articles/s41598-019-46773-w) for drawing phylogenic tree with [MEGA](https://www.megasoftware.net/).
+
+For run use: 
+```
+python main.py --path <folder of fastas>
+```
+ 
