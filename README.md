@@ -3,6 +3,6 @@ This is a python implementation of [Ultra-fast genome comparison for large-scale
 
 Example
 ```
-python main.py --path ./data/corona --k-mer-len 32 --key-len 12
+python main.py --path ./data/corona --k-mer-len 32 --key-len 12 --dim 80
 ```
  
